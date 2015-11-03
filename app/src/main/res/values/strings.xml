@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticaXML1.2</string>
+    <string name="bt_guardar">Guardar</string>
+
+    <string name="str_ajustes">Ajustes Guardados</string>
+    <string name="str_sinactualizar">No has sincronizado todavía</string>
+    <string name="str_sincronizar">Tipo de Sincronizacion</string>
+    <string name="str_mostrar">Mostrar ultima sincronizacion</string>
+    <string name="str_arranque">Sincronizar al Iniciar</string>
+
+    <string name="menu_editar">Editar</string>
+    <string name="menu_borrar">Eliminar</string>
+
+    <string name="rb_si">Si</string>
+    <string name="rb_no">No</string>
+    <string name="rb_parcial">Parcial</string>
+    <string name="rb_total">Total</string>
+</resources>
